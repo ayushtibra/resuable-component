@@ -20,6 +20,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* .customClass{
+  background-color: rgba(255, 150, 100, 0.5);
+}
+
+.customClass .modal-content{
+  width: 50%;
+} */
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
